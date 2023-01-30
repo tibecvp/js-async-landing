@@ -1,0 +1,23 @@
+{
+  "name": "js-async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibecvp/js-async-landing.git"
+  },
+  "keywords": [],
+  "author": "Tibe Calderon <tibecvp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tibecvp/js-async-landing/issues"
+  },
+  "homepage": "https://github.com/tibecvp/js-async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
